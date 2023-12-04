@@ -43,8 +43,8 @@ const int wet = 239; //wet constant
 int automatic;
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Konoha WiFi";
-char pass[] = "believeit123";
+char ssid[] = <wifi-name>;
+char pass[] = <password>;
 
 BlynkTimer timer;
 
