@@ -29,9 +29,9 @@
 
 /* Fill in information from Blynk Device Info here */
 
-#define BLYNK_TEMPLATE_ID "TMPL2SnAap2O-"
-#define BLYNK_TEMPLATE_NAME "Smart irrigation system"
-#define BLYNK_AUTH_TOKEN "v9xm3iiTO3EHdHAS6rHd-eiUaCEaIwqq"
+#define BLYNK_TEMPLATE_ID "XXXX"
+#define BLYNK_TEMPLATE_NAME "XXXX"
+#define BLYNK_AUTH_TOKEN "XXXXX"
 
 #include <SPI.h>
 #include <WiFiNINA.h>
